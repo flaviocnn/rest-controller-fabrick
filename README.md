@@ -37,6 +37,12 @@ fabrick.account-id=
 spring.datasource.url=jdbc:h2:mem:testdb
 ```
 
+> [!IMPORTANT]
+> **ATTENZIONE: L'API Key è stata rimossa dal file di configurazione per motivi di sicurezza.**
+> È necessario inserire una chiave valida in `src/main/resources/application.properties` per il corretto funzionamento dell'applicazione.
+>
+> *(Nota: In un progetto reale, le credenziali sensibili verrebbero gestite tramite sistemi di gestione dei secret (es. Vault) o variabili d'ambiente, e mai committate nel repository.)*
+
 ## How to Run
 
 1. **Clone the repository**:
