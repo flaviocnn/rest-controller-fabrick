@@ -1,0 +1,17 @@
+com/fabrick_wrapper/demo_controller/entity/TransactionEntity$TransactionEntityBuilder.class
+com/fabrick_wrapper/demo_controller/service/impl/FabrickServiceImpl$BalanceResponseWrapper.class
+com/fabrick_wrapper/demo_controller/dto/MoneyTransferResponseDTO.class
+com/fabrick_wrapper/demo_controller/dto/TransactionDTO.class
+com/fabrick_wrapper/demo_controller/dto/TransactionDTO$TypeDTO.class
+com/fabrick_wrapper/demo_controller/config/FabrickConfiguration.class
+com/fabrick_wrapper/demo_controller/service/impl/FabrickServiceImpl.class
+com/fabrick_wrapper/demo_controller/dto/MoneyTransferRequestDTO.class
+com/fabrick_wrapper/demo_controller/DemoControllerApplication.class
+com/fabrick_wrapper/demo_controller/service/impl/FabrickServiceImpl$TransactionListPayload.class
+com/fabrick_wrapper/demo_controller/service/FabrickService.class
+com/fabrick_wrapper/demo_controller/service/impl/FabrickServiceImpl$TransactionResponseWrapper.class
+com/fabrick_wrapper/demo_controller/repository/TransactionRepository.class
+com/fabrick_wrapper/demo_controller/dto/BalanceDTO.class
+com/fabrick_wrapper/demo_controller/entity/TransactionEntity.class
+com/fabrick_wrapper/demo_controller/controller/AccountController.class
+com/fabrick_wrapper/demo_controller/exception/GlobalExceptionHandler.class
